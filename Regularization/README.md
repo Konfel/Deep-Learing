@@ -1,4 +1,42 @@
 ###Regularization
+L1
+```
+[Set Split] Training Set: 50000, Testing Set: 10000, Validation Set: 10000
+
+[Training] Epoch 0, Loss: 15.972526550292969
+[Validation] Average loss: 0.008858672738075257, Accuracy = 41.15%
+
+[Training] Epoch 1, Loss: 5.4766998291015625
+[Validation] Average loss: 0.009184222507476806, Accuracy = 11.28%
+
+[Training] Epoch 2, Loss: 2.888392925262451
+[Validation] Average loss: 0.009207583665847778, Accuracy = 11.28%
+
+[Training] Epoch 3, Loss: 2.4129209518432617
+[Validation] Average loss: 0.009209208798408508, Accuracy = 11.28%
+
+[Training] Epoch 4, Loss: 2.4043052196502686
+[Validation] Average loss: 0.009209075617790222, Accuracy = 11.28%
+
+[Training] Epoch 5, Loss: 2.4023308753967285
+[Validation] Average loss: 0.009209082078933716, Accuracy = 11.28%
+
+[Training] Epoch 6, Loss: 2.401097536087036
+[Validation] Average loss: 0.009209380841255188, Accuracy = 11.28%
+
+[Training] Epoch 7, Loss: 2.4007813930511475
+[Validation] Average loss: 0.009209097790718079, Accuracy = 11.28%
+
+[Training] Epoch 8, Loss: 2.399772882461548
+[Validation] Average loss: 0.009209228253364564, Accuracy = 11.28%
+
+[Training] Epoch 9, Loss: 2.4040422439575195
+[Validation] Average loss: 0.009209101724624634, Accuracy = 11.28%
+
+[Testing] Average loss: 0.009209180641174316, Accuracy = 11.35%
+Time costs  961.265625
+```
+L2
 ```
 结果
 [Set Split] Training Set: 50000, Testing Set: 10000, Validation Set: 10000

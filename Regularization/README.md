@@ -1,5 +1,5 @@
-###Regularization
-L1
+### Regularization
+## L1
 ```
 [Set Split] Training Set: 50000, Testing Set: 10000, Validation Set: 10000
 
@@ -36,7 +36,7 @@ L1
 [Testing] Average loss: 0.009209180641174316, Accuracy = 11.35%
 Time costs  961.265625
 ```
-L2
+## L2
 ```
 结果
 [Set Split] Training Set: 50000, Testing Set: 10000, Validation Set: 10000
